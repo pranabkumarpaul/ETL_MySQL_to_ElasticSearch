@@ -11,3 +11,7 @@
  - <b>Elasticsearch Development:</b> Created index, index pattern.
  - <b>Elasticsearch Data Ingestion:</b> Now, I have used the MySQL DB as a source to read the data, then transformed it & load the data to Elasticsearch.
 
+### Kibana dashboard screenshot.
+![Kibana_Dashboard](https://github.com/pranabkumarpaul/ETL_MySQL_to_ElasticSearch/assets/74065301/d7e3ed3a-5d3f-48f5-b86c-c2fecd25a14f)
+
+### Kibana data screenshot.
