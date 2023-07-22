@@ -15,3 +15,4 @@
 ![Kibana_Dashboard](https://github.com/pranabkumarpaul/ETL_MySQL_to_ElasticSearch/assets/74065301/d7e3ed3a-5d3f-48f5-b86c-c2fecd25a14f)
 
 ### Kibana data screenshot.
+![Kibana_Data](https://github.com/pranabkumarpaul/ETL_MySQL_to_ElasticSearch/assets/74065301/f062906f-57d7-4e85-95d6-75dca80b4773)
